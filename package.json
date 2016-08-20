@@ -20,6 +20,10 @@
 	},
 	"devDependencies": {
 	},
+	"scripts": {
+		"test": "node test.js",
+		"prepublish": "npm test"
+	},
 	"engine" : {
 		"node" : ">=6"
 	},
