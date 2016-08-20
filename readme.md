@@ -1,6 +1,7 @@
 # zip-to-city
 
 Get the city associated with the given german ZIP code.
+Using public domain ZIP code data from [OpenGeoDB](http://opengeodb.org/wiki/PLZ.tab).
 
 [![npm version](https://img.shields.io/npm/v/zip-to-city.svg)](https://www.npmjs.com/package/zip-to-city)
 [![Build Status](https://travis-ci.org/juliuste/zip-to-city.svg?branch=master)](https://travis-ci.org/juliuste/zip-to-city)
