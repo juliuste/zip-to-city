@@ -1,7 +1,7 @@
 {
 	"name": "zip-to-city",
 	"description": "Get the city associated with the given german ZIP code.",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"keywords": [
 		"zip",
 		"plz",
@@ -14,7 +14,7 @@
 	"repository": "juliuste/zip-to-city",
 	"bugs": "https://github.com/juliuste/zip-to-city/issues",
 	"main": "index.js",
-	"files": ["index.js"],
+	"files": ["index.js", "germany.json"],
 	"dependencies": {
 		"lodash": "^4.15.0"
 	},
