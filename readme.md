@@ -21,7 +21,6 @@ npm install zip-to-city
 const unzip = require('zip-to-city')
 
 console.log(unzip('10117')) // 'Berlin'
-
 ```
 
 ## Contributing
