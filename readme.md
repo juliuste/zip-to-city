@@ -1,5 +1,7 @@
 # zip-to-city
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/juliuste/zip-to-city.svg)](https://greenkeeper.io/)
+
 Get the city associated with the given german ZIP code.
 Using public domain ZIP code data from [OpenGeoDB](http://opengeodb.org/wiki/PLZ.tab).
 
