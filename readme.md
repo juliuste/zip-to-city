@@ -7,7 +7,8 @@ Using public domain ZIP code data from [OpenGeoDB](http://opengeodb.org/wiki/PLZ
 [![Build Status](https://travis-ci.org/juliuste/zip-to-city.svg?branch=master)](https://travis-ci.org/juliuste/zip-to-city)
 [![dependency status](https://img.shields.io/david/juliuste/zip-to-city.svg)](https://david-dm.org/juliuste/zip-to-city)
 [![dev dependency status](https://img.shields.io/david/dev/juliuste/zip-to-city.svg)](https://david-dm.org/juliuste/zip-to-city#info=devDependencies)
-[![MIT License](https://img.shields.io/badge/license-MIT-black.svg)](https://opensource.org/licenses/MIT)
+[![license](https://img.shields.io/github/license/juliuste/zip-to-city.svg?style=flat)](LICENSE)
+[![chat on gitter](https://badges.gitter.im/juliuste.svg)](https://gitter.im/juliuste)
 
 ## Installation
 
